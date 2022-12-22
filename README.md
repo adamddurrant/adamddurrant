@@ -1,21 +1,16 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">👋 I'm Adam, an SEO specialist pursuing a career in front-end web development. I'm passionate about the web and I love learning and creating.
 <br/> <br/> 
 
 </div>  
   
 
-- 🔭 I’m currently working on learning SASS, JavaScript & React  
+- 🔭 I’m currently learning Tailwind, JavaScript & React  
   
 
 - 🌱 I’m currently learning CSS animation  
   
 
-- ❓ Ask me about anything related to SEO or Weblow (both got me into learning to code)  
+- ❓ Ask me about anything related to SEO or Webflow (both got me into learning to code)  
   
 
 - ⚡ Fun fact: I have a degree in forensic investigation  
