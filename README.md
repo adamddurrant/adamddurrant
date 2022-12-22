@@ -1,5 +1,5 @@
 👋 I'm Adam, an SEO specialist pursuing a career in front-end web development. I'm passionate about the web and I love learning and creating.
-<br/> <br/> 
+<br/>
   
 - 🌱 I’m currently learning Tailwind, JavaScript & React  
 - 🧑‍💻 My skillset includes: JS, React, HTML, CSS, Bootstrap, Framer Motion, Git, Webflow, Firebase
