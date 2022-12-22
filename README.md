@@ -5,4 +5,4 @@
 - 🧑‍💻 My skillset includes: JS, React, HTML, CSS, Bootstrap, Framer Motion, Git, Webflow, Firebase
 - ❓ Ask me about anything related to SEO or Webflow (both got me into learning to code)  
 - ⚡ Fun fact: I have a degree in Forensic Investigation  
-- 🤙 Connect with me:<a href="https://twitter.com/adamddurrant" target="_blank">twitter</a> or <a href="https://linkedin.com/in/adam-durrant" target="_blank">Linkedin</a>
+- 🤙 Connect with me on: <a href="https://twitter.com/adamddurrant" target="_blank">Twitter</a> or <a href="https://linkedin.com/in/adam-durrant" target="_blank">Linkedin</a>
