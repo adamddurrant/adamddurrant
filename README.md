@@ -1,7 +1,7 @@
-👋 I'm Adam, an SEO specialist pursuing a career in front-end web development. I'm passionate about the web and I love learning and creating.
+👋 I'm Adam, an SEO specialist and front-end web developmer. I'm passionate about the web and I love learning and creating.
 <br/>
   
-- 🌱 I’m currently learning Tailwind, JavaScript & React  
+- 🌱 I’m currently learning PHP, Vue and SaSS 
 - 🧑‍💻 My skillset includes: JS, React, HTML, CSS, Tailwind, SaSS, Git, Webflow, Wordpress
 - ❓ Ask me about anything related to SEO or Webflow (both got me into learning to code)  
 - ⚡ Fun fact: I have a degree in Forensic Investigation  
