@@ -1,4 +1,4 @@
-👋 I'm Adam, an SEO specialist and front-end web developmer. I'm passionate about the web and I love learning and creating.
+👋 I'm Adam, an SEO specialist and junior dev. I'm passionate about the web and I love learning and creating.
 <br/>
   
 - 🌱 I’m currently learning PHP, Vue and SaSS 
