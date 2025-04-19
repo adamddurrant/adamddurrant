@@ -21,7 +21,7 @@ An ex-<a href="https://www.brainlabsdigital.com/" target="_blank">Brainlabs</a> 
 
 ### Latest projects
 - [Wordpress Custom Filter Extractor](https://filter-finder-app.vercel.app/)
-- [The best of frontend on X, without the noise.](https://www.frontendwrapped.com/)
+- [Frontend Dev X Post Curator](https://www.frontendwrapped.com/)
 - [Tug of War React Native Game](https://github.com/adamddurrant/tug-of-war)
 
 
