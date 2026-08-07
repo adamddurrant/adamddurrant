@@ -20,12 +20,14 @@ An ex-<a href="https://www.brainlabsdigital.com/" target="_blank">Brainlabs</a> 
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
 
 ### Latest projects
+- [QR Scanning native app with security features](https://qr-guardian.com/)
 - [Wordpress Custom Filter Extractor](https://filter-finder-app.vercel.app/)
 - [Frontend Dev X Post Curator](https://www.frontendwrapped.com/)
 - [Tug of War React Native Game](https://github.com/adamddurrant/tug-of-war)
 
 
 ### Recent posts
+- [Optional Chaining (?.) in JavaScript: Eliminate Property Errors](https://adamdurrant.co.uk/blog/optional-chaining)
 - [How to Undo Pushed Git Commits Locally & Remotely](https://adamdurrant.co.uk/blog/undo-git-commit)
 - [Learning to Code & Landing a Dev Job in < 6 Months](https://adamdurrant.co.uk/blog/learning-to-code)
 - [6 SASS (SCSS) Mixins That Give Me Superpowers](https://adamdurrant.co.uk/blog/scss-mixins)
@@ -34,5 +36,4 @@ An ex-<a href="https://www.brainlabsdigital.com/" target="_blank">Brainlabs</a> 
 ### Find me
 [![Website](https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=lightning&logoColor=white)](https://adamdurrant.co.uk/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-durrant/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AdamDDurrant)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adamddurrant)
