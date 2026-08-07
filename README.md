@@ -1,4 +1,4 @@
-An ex-<a href="https://www.brainlabsdigital.com/" target="_blank">Brainlabs</a> SEO consultant turned full-time web developer at [pugpig.com](pugpig.com) based in the UK 🇬🇧
+Ex-<a href="https://www.brainlabsdigital.com/" target="_blank">Brainlabs</a> SEO consultant turned full-time web developer at [pugpig.com](pugpig.com) based in the UK 🇬🇧
 
 ### Tech I use
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
@@ -26,7 +26,7 @@ An ex-<a href="https://www.brainlabsdigital.com/" target="_blank">Brainlabs</a> 
 - [Tug of War React Native Game](https://github.com/adamddurrant/tug-of-war)
 
 
-### Recent posts
+### Recent writing
 - [Optional Chaining (?.) in JavaScript: Eliminate Property Errors](https://adamdurrant.co.uk/blog/optional-chaining)
 - [How to Undo Pushed Git Commits Locally & Remotely](https://adamdurrant.co.uk/blog/undo-git-commit)
 - [Learning to Code & Landing a Dev Job in < 6 Months](https://adamdurrant.co.uk/blog/learning-to-code)
